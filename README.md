@@ -2,6 +2,9 @@ dview-pinchzoom-layout
 ![Release](https://jitpack.io/v/dora4/dview-pinchzoom-layout.svg)
 --------------------------------
 
+#### 卡片
+![DORA视图 时空旋涡](https://github.com/user-attachments/assets/ec33d344-fa9a-4bd9-8193-8293985ffd0e)
+
 #### Gradle依赖配置
 
 ```groovy
